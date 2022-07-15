@@ -21,6 +21,10 @@ J'ai commencé par une intégration statique, qui m'a surement fait perdre du te
 
 # Instructions de lancement 
 
+`` lancer l'API de test ``
+
+# Ensuite aller dans le repo front 
+
 ``cd src`` 
 
 ``npm install``
